@@ -1,3 +1,3 @@
 Maintainers (sorted alphabetically)
 ---------------------------------------
-* **[Jonathan Chapetti](https://github.com/jonathanciapetti)**
+* **[Jonathan Ciapetti](https://github.com/jonathanciapetti)**
